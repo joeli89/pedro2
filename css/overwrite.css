@@ -1,0 +1,232 @@
+.navbar {
+	background: #000;
+}
+.navbar ul.nav a {
+	font-family: 'Oswald', sans-serif;
+	color: #929292;
+}
+.navbar ul.nav a:hover {
+	color: #ffffff;
+}
+.nav li.active a {
+	color: #fff;
+}
+.navbar-collapse  {
+	background: #000;
+}
+
+
+.heading h1 {
+	font-family: 'Pacifico', sans-serif;
+   font-weight: 300;
+	text-transform: none;
+	color: #fff;
+	text-shadow: 1px 1px 6px #000000;
+}
+.heading h2 {
+	color: #ffffff;
+}
+.ticker {
+	height: 50px;
+}
+.heading img {
+	width: 150px;
+}
+.heading a {
+	font-family: 'Oswald', sans-serif;
+	background: #000;
+}
+
+.breadcrumb {
+	background-color: transparent;
+	font-weight: 100;
+}
+
+.navbar-brand img {
+	max-width: 14%;
+}
+.navbar-header {
+	height: 0;
+}
+
+.hero {
+	background-image: url(../img/bgImages/stairs_3.png);
+	width: 100%;
+	color: #fff;
+	margin: 0;
+	display: table;
+	height: 100%;
+}
+
+.hero2 {
+	background-image: url(../img/bgImages/bench.png);
+	width: 100%;
+	color: #fff;
+	margin: 0;
+	display: table;
+	height: 100%;
+}
+
+.hero3 {
+	background-image: url(../img/bgImages/gear.png);
+	width: 100%;
+	color: #fff;
+	margin: 0;
+	display: table;
+	height: 100%;
+}
+
+.hero4 {
+	background-image: url(../img/bgImages/frame.png);
+	width: 100%;
+	color: #fff;
+	margin: 0;
+	display: table;
+	height: 100%;
+}
+.hero5 {
+	background-image: url(../img/pictures/coffee/coffee_bg.png);
+	width: 100%;
+	color: #fff;
+	margin: 0;
+	display: table;
+	height: 100%;
+}
+.hero6 {
+	background-image: url(../img/pictures/double/double_2.png);
+	width: 100%;
+	color: #fff;
+	margin: 0;
+	display: table;
+	height: 100%;
+}
+.hero7 {
+	background-image: url(../img/pictures/table/table_bg.png);
+	width: 100%;
+	color: #fff;
+	margin: 0;
+	display: table;
+	height: 100%;
+}
+.hero8 {
+	background-image: url(../img/pictures/shelf/shelf_bg.png);
+	width: 100%;
+	color: #fff;
+	margin: 0;
+	display: table;
+	height: 100%;
+}
+
+
+
+.breadcrumb a:hover {
+	color: #fff;
+}
+
+/*.modal button.close { 
+	border: none;
+}
+.modal button.close:hover {
+	background-color: transparent;
+	border: none;
+}*/
+
+
+
+.portfolio-title {
+	font: 80px;
+}
+
+.modal {
+	padding: 0%;
+}
+.modal img {
+	padding-bottom: 0%;
+}
+.modal-body h5 {
+	text-align: center;
+	color: #929292;
+	font-size: 20px;
+}
+
+/*CONTACT*/
+
+.contact {
+	background-color: #f1f1f1;
+}
+
+/*THANKS ALET BOX*/
+
+.thanks-message {
+
+	text-align: center;
+}
+.thanks-message h2 {
+	font-size: 20px;
+
+}
+
+.wrong-message {
+
+	text-align: center;
+
+}
+.wrong-message h2 {
+	font-size: 20px;
+	color: red;
+
+}
+
+.nav-tabs li a {
+	width: 120px;
+}
+
+.nav-tabs>li {
+	width: 120px;
+}
+
+
+/*.team-member-holder {
+	max-width: 400px;
+}*/
+
+
+
+
+
+ @media (max-width: 768px) {
+ 	.navbar-brand img {
+		width: 10%
+	}
+	.logo {
+		position: absolute;
+		top: -14px;
+	}
+
+ }
+
+  @media (max-width: 550px) {
+ 	.navbar-brand img {
+		width: 10%
+	}
+	.logo {
+		position: absolute;
+		top: -10px;
+	}
+
+ }
+
+   @media (max-width: 450px) {
+ 	.navbar-brand img {
+		width: 12%
+	}
+	.logo {
+		position: absolute;
+		top: -12px;
+	}
+
+ }
+
+
+
+
